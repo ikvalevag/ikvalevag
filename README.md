@@ -4,6 +4,4 @@
 - 🧑‍💻 1st year Space Physics Master's student based in Tromsø, Norway
 - 👨‍💼 Interested in learning new stuff and honing my skills
 - 🤓 Love making ideas into reality!
-- 💼 UiT Summer Intern 2023, UiT Summer Intern 2024
 - 📩 Contact: ikvalevag@yahoo.com
-- 🧠 Currently expanding my skills within full stack web development
