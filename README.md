@@ -2,6 +2,4 @@
 
 
 - 🧑‍💻 1st year Space Physics Master's student based in Tromsø, Norway
-- 👨‍💼 Interested in learning new stuff and honing my skills
-- 🤓 Love making ideas into reality!
 - 📩 Contact: ikvalevag@yahoo.com
